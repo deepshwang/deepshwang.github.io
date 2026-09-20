@@ -1,14 +1,13 @@
-# Minimal Theme
+# Sungwon Hwang's Portfolio
 
-[Demo the Theme](http://orderedlist.github.com/minimal/)
+Static portfolio hosted at [deepshwang.github.io](https://deepshwang.github.io/), using the Academic theme.
 
-This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
+Edit `index.html` for the profile, experience, education, publications, and footer. The CV download is `cv/cv_latest.pdf`. Profile assets live in `authors/admin/`, publication media and organization logos in `papers/images/`, and the theme files in `css/` and `js/`.
 
-Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
+No build step is required. Preview with any static HTTP server from the repository root. Temporary PDF exports and rendering files belong in the ignored `output/` and `tmp/` directories.
 
 # License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
 
 
